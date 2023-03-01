@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    width:100px;
+    font-size: medium;
+    padding: auto;
+
+}
+h3{
+    color:green
+}
+.new{
+    font-size: small;
+    padding-top: 0;
+}
